@@ -1,0 +1,87 @@
+{
+  "esquema": 1,
+  "paises": {
+    "CO": {
+      "version": "2026-11-19",
+      "canales_total": 126,
+      "canales_produccion": 0,
+      "ok": 90,
+      "no_verificable": 21,
+      "dudoso": 15,
+      "caido": 0,
+      "bytes_produccion": 172
+    },
+    "MX": {
+      "version": "2026-11-19",
+      "canales_total": 173,
+      "canales_produccion": 0,
+      "ok": 110,
+      "no_verificable": 38,
+      "dudoso": 25,
+      "caido": 0,
+      "bytes_produccion": 172
+    },
+    "AR": {
+      "version": "2026-11-19",
+      "canales_total": 184,
+      "canales_produccion": 0,
+      "ok": 141,
+      "no_verificable": 26,
+      "dudoso": 17,
+      "caido": 0,
+      "bytes_produccion": 172
+    },
+    "ES": {
+      "version": "2026-11-19",
+      "canales_total": 260,
+      "canales_produccion": 0,
+      "ok": 161,
+      "no_verificable": 70,
+      "dudoso": 29,
+      "caido": 0,
+      "bytes_produccion": 172
+    },
+    "PE": {
+      "version": "2026-11-19",
+      "canales_total": 175,
+      "canales_produccion": 0,
+      "ok": 147,
+      "no_verificable": 14,
+      "dudoso": 14,
+      "caido": 0,
+      "bytes_produccion": 172
+    },
+    "CL": {
+      "version": "2026-11-19",
+      "canales_total": 191,
+      "canales_produccion": 0,
+      "ok": 169,
+      "no_verificable": 10,
+      "dudoso": 12,
+      "caido": 0,
+      "bytes_produccion": 172
+    },
+    "EC": {
+      "version": "2026-11-19",
+      "canales_total": 81,
+      "canales_produccion": 0,
+      "ok": 55,
+      "no_verificable": 15,
+      "dudoso": 11,
+      "caido": 0,
+      "bytes_produccion": 172
+    },
+    "VE": {
+      "version": "2026-11-19",
+      "canales_total": 78,
+      "canales_produccion": 0,
+      "ok": 48,
+      "no_verificable": 11,
+      "dudoso": 19,
+      "caido": 0,
+      "bytes_produccion": 172
+    }
+  },
+  "generado": "2026-11-19T15:03:17.340Z",
+  "contacto_retiro": "soportepaulstreamtv@gmail.com"
+}
