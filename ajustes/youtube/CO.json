@@ -1,0 +1,22 @@
+{
+  "pais": "CO",
+  "oficiales": {},
+  "candidatos": [
+    { "nombre": "Noticias Caracol", "canal_youtube": null, "estado": "a_revisar" },
+    { "nombre": "Noticias RCN", "canal_youtube": null, "estado": "a_revisar" },
+    { "nombre": "Citytv / CityNoticias", "canal_youtube": null, "estado": "a_revisar" },
+    { "nombre": "Canal 1 Noticias", "canal_youtube": null, "estado": "a_revisar" },
+    { "nombre": "NTN24", "canal_youtube": null, "estado": "a_revisar" },
+    { "nombre": "Cablenoticias", "canal_youtube": null, "estado": "a_revisar" },
+    { "nombre": "Señal Colombia / RTVC Noticias", "canal_youtube": null, "estado": "a_revisar" },
+    { "nombre": "Canal Capital", "canal_youtube": null, "estado": "a_revisar" },
+    { "nombre": "Telemedellín", "canal_youtube": null, "estado": "a_revisar" },
+    { "nombre": "Teleantioquia", "canal_youtube": null, "estado": "a_revisar" },
+    { "nombre": "Telecaribe", "canal_youtube": null, "estado": "a_revisar" },
+    { "nombre": "Telecafé", "canal_youtube": null, "estado": "a_revisar" },
+    { "nombre": "Canal Trece", "canal_youtube": null, "estado": "a_revisar" },
+    { "nombre": "Semana TV", "canal_youtube": null, "estado": "a_revisar" },
+    { "nombre": "El Tiempo Televisión", "canal_youtube": null, "estado": "a_revisar" }
+  ],
+  "_instrucciones": "Para cada candidato: confirmar que el canal de YouTube es el oficial del emisor y que tiene una transmisión en vivo incrustable. Si se confirma, agregarlo en 'oficiales' como { \"<id de iptv-org>\": { \"url\": \"https://www.youtube.com/watch?v=<id del video en vivo>\", \"verificado\": \"AAAA-MM-DD\", \"nota\": \"cómo se verificó\" } }. Los nombres de la lista son candidatos sin confirmar: no hay canales ni transmisiones verificados todavía."
+}

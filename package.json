@@ -1,0 +1,10 @@
+{
+  "name": "paulstreamtv-catalogo",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "actualizar": "node robot/index.mjs",
+    "actualizar:rapido": "node robot/index.mjs --sin-verificar"
+  }
+}

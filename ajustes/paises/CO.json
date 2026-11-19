@@ -1,0 +1,11 @@
+{
+  "pais": "CO",
+  "numeros_fijos": {
+    "CaracolTV.co": 1, "CanalRCN.co": 2, "Canal1.co": 3, "SenalColombia.co": 4, "CanalInstitucional.co": 5,
+    "CitytvBogota.co": 6, "Teleantioquia.co": 7, "Telecaribe.co": 8, "Telepacifico.co": 9, "Telecafe.co": 10,
+    "Telemedellin.co": 11, "CanalCapital.co": 12, "Trece.co": 13, "CanalTRO.co": 14, "CanalCongreso.co": 15, "WinSports.co": 16
+  },
+  "excluir": [],
+  "oficiales": {},
+  "categoria_es": {}
+}
