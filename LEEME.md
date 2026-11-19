@@ -8,7 +8,7 @@ Catálogo de TV abierta por país para la app Paul Stream TV. Un robot diario (G
 | Ruta | Contenido | Quién lo usa |
 |---|---|---|
 | `paises/XX.json` | **Producción**: solo canales con `oficial: true` y solo sus fuentes oficiales | App de producción (Google Play y Apple) |
-| `completo/XX.json` | Todos los canales con señal, marcados como oficiales o no | App en desarrollo, con el interruptor del catálogo |
+| `completo/XX.json` | Todos los canales con señal, marcados como oficiales o no. **No se publica**: solo se genera en local con `GENERAR_COMPLETO=1` (está en `.gitignore`) | Desarrollo |
 | `index.json` | Versión y conteos por país; la app lo consulta primero | App |
 
 ## Reglas de filtrado (robot)
@@ -48,6 +48,11 @@ Fuente: `tipo_fuente` (`dominio_propio`, `cdn_conocido`, `tercero`, `ip_directa`
 ```
 node robot/index.mjs --paises=CO              # un país, con verificación
 node robot/index.mjs --sin-verificar          # sin revisar las señales
+GENERAR_COMPLETO=1 node robot/index.mjs       # además genera completo/ (solo local)
 CACHE_DIR=.cache node robot/index.mjs         # usa JSON de iptv-org ya descargados (pruebas)
 ```
 No tiene dependencias: solo Node 20 o superior.
+
+## Licencia y origen de los datos
+- El **código del robot** es [MIT](LICENSE).
+- Los **datos de canales** provienen de [iptv-org](https://github.com/iptv-org/api) (Unlicense). Este repositorio solo publica **metadatos de señales públicas** (nombres, enlaces, logos y categorías); no aloja video. Los derechos del contenido de cada canal pertenecen a sus titulares (ver [RETIRO.md](RETIRO.md)).

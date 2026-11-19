@@ -1,11 +1,23 @@
 {
   "pais": "CO",
   "numeros_fijos": {
-    "CaracolTV.co": 1, "CanalRCN.co": 2, "Canal1.co": 3, "SenalColombia.co": 4, "CanalInstitucional.co": 5,
-    "CitytvBogota.co": 6, "Teleantioquia.co": 7, "Telecaribe.co": 8, "Telepacifico.co": 9, "Telecafe.co": 10,
-    "Telemedellin.co": 11, "CanalCapital.co": 12, "Trece.co": 13, "CanalTRO.co": 14, "CanalCongreso.co": 15, "WinSports.co": 16
+    "SenalColombia.co": 1,
+    "CanalInstitucional.co": 2,
+    "CanalCapital.co": 3,
+    "Trece.co": 4,
+    "CanalCongreso.co": 5,
+    "Teleantioquia.co": 6,
+    "Telecaribe.co": 7,
+    "Telepacifico.co": 8,
+    "Telecafe.co": 9,
+    "CanalTRO.co": 10,
+    "Telemedellin.co": 11,
+    "Teleislas.co": 12
   },
   "excluir": [],
   "oficiales": {},
-  "categoria_es": {}
+  "categoria_es": {},
+  "numeros_reservados": {
+    "20-29": "Canales privados nacionales (Caracol, RCN, Canal 1, Citytv): reservados, sin asignar todavía"
+  }
 }
