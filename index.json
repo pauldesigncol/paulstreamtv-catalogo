@@ -2,67 +2,67 @@
   "esquema": 1,
   "paises": {
     "CO": {
-      "version": "2026-11-26",
+      "version": "2026-11-27",
       "canales_total": 128,
       "canales_produccion": 0,
       "ok": 96,
-      "no_verificable": 17,
-      "dudoso": 4,
+      "no_verificable": 18,
+      "dudoso": 3,
       "caido": 11,
       "bytes_produccion": 172
     },
     "MX": {
-      "version": "2026-11-26",
+      "version": "2026-11-27",
       "canales_total": 174,
       "canales_produccion": 0,
-      "ok": 110,
+      "ok": 112,
       "no_verificable": 38,
-      "dudoso": 3,
-      "caido": 23,
+      "dudoso": 2,
+      "caido": 22,
       "bytes_produccion": 172
     },
     "AR": {
-      "version": "2026-11-26",
+      "version": "2026-11-27",
       "canales_total": 186,
       "canales_produccion": 0,
-      "ok": 133,
-      "no_verificable": 32,
-      "dudoso": 10,
+      "ok": 136,
+      "no_verificable": 34,
+      "dudoso": 5,
       "caido": 11,
       "bytes_produccion": 172
     },
     "ES": {
-      "version": "2026-11-26",
+      "version": "2026-11-27",
       "canales_total": 230,
       "canales_produccion": 0,
       "ok": 159,
       "no_verificable": 51,
-      "dudoso": 5,
-      "caido": 15,
+      "dudoso": 1,
+      "caido": 19,
       "bytes_produccion": 172
     },
     "PE": {
-      "version": "2026-11-26",
+      "version": "2026-11-27",
       "canales_total": 179,
       "canales_produccion": 0,
-      "ok": 151,
+      "ok": 150,
       "no_verificable": 13,
-      "dudoso": 5,
+      "dudoso": 6,
       "caido": 10,
       "bytes_produccion": 172
     },
     "CL": {
-      "version": "2026-11-26",
+      "version": "2026-11-27",
       "canales_total": 196,
       "canales_produccion": 0,
-      "ok": 174,
+      "ok": 175,
       "no_verificable": 8,
-      "dudoso": 4,
+      "dudoso": 3,
       "caido": 10,
       "bytes_produccion": 172
     },
     "EC": {
-      "version": "2026-11-26",
+      "version": "2026-11-27",
       "canales_total": 81,
       "canales_produccion": 0,
       "ok": 53,
@@ -72,16 +72,16 @@
       "bytes_produccion": 172
     },
     "VE": {
-      "version": "2026-11-26",
+      "version": "2026-11-27",
       "canales_total": 78,
       "canales_produccion": 0,
-      "ok": 50,
+      "ok": 51,
       "no_verificable": 11,
       "dudoso": 2,
-      "caido": 15,
+      "caido": 14,
       "bytes_produccion": 172
     }
   },
-  "generado": "2026-11-26T16:24:55.354Z",
+  "generado": "2026-11-27T16:09:45.301Z",
   "contacto_retiro": "soportepaulstreamtv@gmail.com"
 }
